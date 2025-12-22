@@ -110,7 +110,8 @@ h2 {
     margin-bottom: 3rem;
     color: var(--accent-color);
 }
-h4{
+
+h4 {
     text-align: center;
     font-size: 2rem;
     margin-bottom: 3rem;
@@ -224,7 +225,7 @@ h4{
 .project-img {
     width: 100%;
     height: 180px;
-    background: #666;
+    background: #666666cb;
     /* Placeholder */
     border-radius: 10px;
     margin-bottom: 1.5rem;
@@ -367,4 +368,19 @@ h4{
     .timeline-item.right {
         left: 0;
     }
+}
+
+/* Coding Icons Styling */
+.coding-icon {
+    transition: 0.3s;
+    /* Dark Gray default (visible on black but dark) - "Like Black" */
+    filter: grayscale(100%) brightness(120%);
+    opacity: 0.8;
+}
+
+.coding-icon:hover {
+    transform: scale(1.1);
+    opacity: 1;
+    /* Blue on hover matches var(--accent-color) - "Like LinkedIn" interaction */
+    filter: invert(38%) sepia(93%) saturate(1510%) hue-rotate(202deg) brightness(101%) contrast(96%);
 }
