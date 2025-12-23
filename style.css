@@ -225,7 +225,7 @@ h4 {
 .project-img {
     width: 100%;
     height: 180px;
-    background: #666666cb;
+    background: rgba(255, 255, 255, 0.1);
     /* Placeholder */
     border-radius: 10px;
     margin-bottom: 1.5rem;
