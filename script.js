@@ -33,4 +33,43 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+    // Contact Form Handling
+    const sendWhatsappBtn = document.getElementById('send-whatsapp');
+    const sendEmailBtn = document.getElementById('send-email');
+
+    if (sendWhatsappBtn) {
+        sendWhatsappBtn.addEventListener('click', () => {
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+
+            if (!name || !email || !message) {
+                alert('Please fill in all fields.');
+                return;
+            }
+
+            const text = `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
+            const url = `https://wa.me/918610554060?text=${text}`;
+            window.open(url, '_blank');
+        });
+    }
+
+    if (sendEmailBtn) {
+        sendEmailBtn.addEventListener('click', () => {
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+
+            if (!name || !email || !message) {
+                alert('Please fill in all fields.');
+                return;
+            }
+
+            const subject = `Contact from Portfolio: ${name}`;
+            const body = `Name: ${name}%0D%0AEmail: ${email}%0D%0AMessage: ${message}`;
+            const url = `mailto:vijayapandian112007@gmail.com?subject=${encodeURIComponent(subject)}&body=${body}`;
+            window.location.href = url;
+        });
+    }
 });

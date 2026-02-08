@@ -362,10 +362,13 @@
             </div>
             <div class="contact-form glass">
                 <form>
-                    <input type="text" placeholder="Name" required>
-                    <input type="email" placeholder="E-mail" required>
-                    <textarea rows="5" placeholder="Message"></textarea>
-                    <button type="button" class="btn">Send Message</button>
+                    <input type="text" id="name" placeholder="Name" required>
+                    <input type="email" id="email" placeholder="E-mail" required>
+                    <textarea rows="5" id="message" placeholder="Message"></textarea>
+                    <div class="button-group">
+                        <button type="button" class="btn" id="send-whatsapp"><i class="fab fa-whatsapp"></i> Send via WhatsApp</button>
+                        <button type="button" class="btn" id="send-email"><i class="fas fa-envelope"></i> Send via Email</button>
+                    </div>
                 </form>
             </div>
         </div>
