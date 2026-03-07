@@ -2,9 +2,13 @@
 
 A responsive and interactive personal portfolio website built using HTML, CSS, and JavaScript, showcasing my skills, projects, and contact details. This portfolio represents my journey in Web Development and Data Structures & Algorithms, created with the help of AI-assisted development to improve efficiency and learning.
 
+--
+
 🚀 Live Demo
 
 👉 https://portfolio-pied-tau-53.vercel.app/
+
+--
 
 🛠️ Technologies Used
 
@@ -15,6 +19,8 @@ CSS3 – Styling and responsive design
 JavaScript – Interactivity and dynamic behavior
 
 AI Tools – Assisted in design ideas, optimization, and debugging
+
+--
 
 ✨ Features
 
@@ -28,6 +34,8 @@ Project showcase section
 
 Contact section for easy communication
 
+--
+
 📈 Learning Outcomes
 
 Improved frontend development skills
@@ -38,6 +46,8 @@ Better understanding of JavaScript DOM manipulation
 
 Learned how to use AI as a productivity tool in development
 
+--
+
 🧑‍💻 Author
 
  Vjayapandian T
@@ -46,10 +56,14 @@ GitHub: VIJAYAPANDIANT
 
 LinkedIn: https://www.linkedin.com/in/vijayapandian-t/
 
+--
+
 🤝 Contributing
 
 Contributions, suggestions, and feedback are always welcome!
 Feel free to fork this repository and create a pull request.
+
+--
 
 ⭐ Support
 
