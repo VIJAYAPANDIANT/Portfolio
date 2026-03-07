@@ -28,15 +28,6 @@ Project showcase section
 
 Contact section for easy communication
 
---  📂 Project Structure
-Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│   ├── images
-│   └── icons
-
 📈 Learning Outcomes
 
 Improved frontend development skills
