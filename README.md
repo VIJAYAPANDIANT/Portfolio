@@ -49,7 +49,7 @@ Learned how to use AI as a productivity tool in development
 
 🧑‍💻 Author
 
--- Vijayapandian T
+ Vjayapandian T
 
 GitHub: VIJAYAPANDIANT
 
