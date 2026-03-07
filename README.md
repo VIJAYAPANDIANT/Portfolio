@@ -4,7 +4,7 @@ A responsive and interactive personal portfolio website built using HTML, CSS, a
 
 🚀 Live Demo
 
-👉 Coming soon / Add your deployed link here
+👉 portfolio-pied-tau-53.vercel.app
 
 🛠️ Technologies Used
 
@@ -28,7 +28,7 @@ Project showcase section
 
 Contact section for easy communication
 
-📂 Project Structure
+--  📂 Project Structure
 Portfolio/
 │── index.html
 │── style.css
@@ -36,10 +36,6 @@ Portfolio/
 │── assets/
 │   ├── images
 │   └── icons
-
-📸 Screenshots
-
-Add screenshots of your portfolio here to make it more attractive.
 
 📈 Learning Outcomes
 
@@ -53,11 +49,11 @@ Learned how to use AI as a productivity tool in development
 
 🧑‍💻 Author
 
-Vijay Pandiant
+-- Vijayapandian T
 
 GitHub: VIJAYAPANDIANT
 
-LinkedIn: (Add your LinkedIn profile link)
+LinkedIn: https://www.linkedin.com/in/vijayapandian-t/
 
 🤝 Contributing
 
