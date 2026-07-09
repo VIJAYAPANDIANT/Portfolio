@@ -30,6 +30,7 @@ My journey is driven by a passion for problem-solving, demonstrated through my a
 ## 🛠️ Skills & Technologies
 
 ### Frontend & Design
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,12 +40,14 @@ My journey is driven by a passion for problem-solving, demonstrated through my a
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Languages
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -53,14 +56,14 @@ My journey is driven by a passion for problem-solving, demonstrated through my a
 
 ## 💼 Professional Experience
 
-| Role | Company | Period |
-| :--- | :--- | :--- |
-| **AI for Sustainability Intern** | 1M1B (1 Million for 1 Billion) | Dec 2025 - Present |
-| **Artificial Intelligence Intern** | NoviTech R&D Pvt Ltd | Nov 2025 - Present |
-| **Machine Learning Intern** | NoviTech R&D Pvt Ltd | Oct 2025 - Nov 2025 |
-| **Data Analyst Intern** | NoviTech R&D Pvt Ltd | Aug 2025 - Oct 2025 |
-| **Java Development Intern** | Cognifyz Technologies | Aug 2025 - Sep 2025 |
-| **Cloud Development Intern** | Zero2site | May 2025 - Jun 2025 |
+| Role                               | Company                        | Period              |
+| :--------------------------------- | :----------------------------- | :------------------ |
+| **AI for Sustainability Intern**   | 1M1B (1 Million for 1 Billion) | Dec 2025 - Present  |
+| **Artificial Intelligence Intern** | NoviTech R&D Pvt Ltd           | Nov 2025 - Present  |
+| **Machine Learning Intern**        | NoviTech R&D Pvt Ltd           | Oct 2025 - Nov 2025 |
+| **Data Analyst Intern**            | NoviTech R&D Pvt Ltd           | Aug 2025 - Oct 2025 |
+| **Java Development Intern**        | Cognifyz Technologies          | Aug 2025 - Sep 2025 |
+| **Cloud Development Intern**       | Zero2site                      | May 2025 - Jun 2025 |
 
 ---
 
@@ -74,12 +77,15 @@ My journey is driven by a passion for problem-solving, demonstrated through my a
 ## 🚀 Key Projects
 
 ### 🔮 Customer Churn Prediction
+
 Predicting customer churn using advanced Machine Learning algorithms to help businesses improve retention strategies.
 
 ### 🛒 E-commerce Platform
+
 A full-featured e-commerce solution with product management, user authentication, and responsive design.
 
 ### 🌤️ Weather Forecast App
+
 A real-time weather application providing accurate forecasts using modern Web APIs.
 
 ---
@@ -120,11 +126,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/VIJAYAPANDIANT/Portfolio.git
+   git clone https://github.com/VIJAYAPANDIANT/portfolio.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd Portfolio
+   cd portfolio
    ```
 3. **Open `index.html`**:
    Simply open the `index.html` file in your preferred web browser.
@@ -133,5 +139,5 @@ To run this project locally, follow these steps:
 
 <div align="center">
   <p>Show some ❤️ by starring this repository!</p>
-  <img src="https://img.shields.io/github/stars/VIJAYAPANDIANT/Portfolio?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/stars/VIJAYAPANDIANT/portfolio?style=social" alt="Stars">
 </div>
